@@ -1,1 +1,0 @@
-print('{0:*^11}'.format('hell'))
